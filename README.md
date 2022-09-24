@@ -6,3 +6,5 @@ Exploratory Data Analysis was carried out on Data Scientists salaries.
 Visualisation relationships between the labels and some key features.
 Exploring correlations.
 Univariate, bivariate, and multivariate analysis was done to visualise various correlarions as much as is feasible
+
+@10Alytics Growth Internship Project
